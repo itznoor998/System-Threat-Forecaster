@@ -59,16 +59,16 @@ accuracy                           0.63     19967
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/system-threat-forecaster.git
-   cd system-threat-forecaster
+   git clone https://github.com/itznoor998/System-Threat-Forecaster.git
+   cd System-Threat-Forecaster
     ```
-    
+
 2. Install dependencies:
     ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost lightgbm
+    pip install pandas numpy matplotlib seaborn scikit-learn xgboost lightgbm
     ```
 
 3. Open the Jupyter notebook:
     ```bash
-jupyter notebook System_Threat_Forecaster.ipynb
+    jupyter notebook System_Threat_Forecaster.ipynb
     ```
