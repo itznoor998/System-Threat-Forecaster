@@ -52,7 +52,7 @@ The models were evaluated on accuracy, precision, recall, and F1-score.
        0       0.63      0.59      0.61      9878
        1       0.63      0.67      0.65     10089
 
-accuracy                           0.63     19967
+    accuracy                       0.63     19967
 
 
 ## 🚀 How to Run
