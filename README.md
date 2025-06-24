@@ -1,6 +1,6 @@
 # System Threat Forecaster 🔐
 
-This repository contains my [**System Threat Forecaster**](https://www.kaggle.com/competitions/System-Threat-Forecaster) machine learning project, developed as part of my diploma coursework. The goal is to predict system threats (e.g., malware or suspicious activity) based on system feature data using **traditional machine learning** and **boosting algorithms**. Go to the link for more details.
+This repository contains my [**System Threat Forecaster**](https://www.kaggle.com/competitions/System-Threat-Forecaster) machine learning project, developed as part of my diploma coursework. The goal is to predict system threats (e.g., malware or suspicious activity) based on system feature data using **traditional machine learning** and **boosting algorithms**. Go to the [link](https://www.kaggle.com/competitions/System-Threat-Forecaster) for more details.
 
 ## 📌 Project Overview
 
